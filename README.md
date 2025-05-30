@@ -12,7 +12,8 @@ This project provides an interactive visualization of supply chain data — from
 ##  Result
 Here is a preview of the interactive supply chain dashboard:
 
-![Dashboard Screenshot](assests/output.png.png)
+![Dashboard Screenshot](assets/output.png)
+)
 
 
 
