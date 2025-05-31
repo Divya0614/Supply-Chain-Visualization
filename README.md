@@ -1,6 +1,6 @@
 # Supply Chain Visualization
 
-This project provides an interactive visualization of supply chain data — from suppliers to manufacturers — including transportation modes and inventory levels.
+This project provides an interactive visualization of supply chain data from suppliers to manufacturers including transportation modes and inventory levels.
 
 ##  Features
 
